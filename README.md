@@ -1,7 +1,4 @@
 # VQA-busImage
-
-markdown
-Copy code
 # Object Detection and OCR with NVIDIA SSD
 
 This project demonstrates object detection and optical character recognition (OCR) using the NVIDIA SSD model.
